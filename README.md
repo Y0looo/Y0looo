@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Y0looo)
 <br>
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Y0looo&show_icons=true&theme=tokyonight)
+<br>
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Y0looo&layout=compact&theme=tokyonight)
+<br>
+![github统计](https://stats.justsong.cn/api/github?username=Y0looo&theme=dark&lang=zh-CN)
