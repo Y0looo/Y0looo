@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <br>
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Y0looo&layout=compact&theme=tokyonight)
 <br>
-![github统计](https://stats.justsong.cn/api/github?username=Y0looo&theme=dark&lang=zh-CN)
+![github统计](https://stats.justsong.cn/api/github?username=Y0looo&theme=tokyonight)
