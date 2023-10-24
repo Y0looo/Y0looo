@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=Y0looo)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Y0looo&show_icons=true&theme=tokyonight)
