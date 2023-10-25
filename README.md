@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 ⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 81.24 %
@@ -7,6 +8,7 @@
 ⏰ Updated on Tue, 24 Oct 2023 12:19:25 GMT
 
 ---
+-->
 
 <!--
 **Y0looo/Y0looo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
